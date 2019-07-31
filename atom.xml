@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://SallyBetty.github.io/"/>
-  <updated>2019-07-29T06:48:31.800Z</updated>
+  <updated>2019-07-31T01:56:16.595Z</updated>
   <id>https://SallyBetty.github.io/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="https://SallyBetty.github.io/archives/undefined.html"/>
     <id>https://SallyBetty.github.io/archives/undefined.html</id>
     <published>2019-07-24T08:39:14.143Z</published>
-    <updated>2019-07-29T06:48:31.800Z</updated>
+    <updated>2019-07-31T01:56:16.595Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to SallyBetty’s blog!This is my first blog.</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to SallyBetty’s blog!This is my first blog.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p> hexo new “My New Post”</p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><p> hexo server</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;Welcome to SallyBetty’s blog!This is my first blog.&lt;/p&gt;
-
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start
       
     
     </summary>

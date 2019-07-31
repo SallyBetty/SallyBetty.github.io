@@ -3,6 +3,6 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Farchives%2Fundefined.html</url>
-    <content type="text"><![CDATA[Welcome to SallyBetty’s blog!This is my first blog.]]></content>
+    <content type="text"><![CDATA[Welcome to SallyBetty’s blog!This is my first blog. Quick StartCreate a new post hexo new “My New Post” Run server hexo server]]></content>
   </entry>
 </search>
